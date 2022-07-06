@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. I have replaced this text with ACME's exciting, dynamic marketing slogan.
+  Welcome to ${PREFIX}'s app. I have replaced this text with ACME's exciting, dynamic marketing slogan version 2.
   <!-- END -->
 
   </div>
